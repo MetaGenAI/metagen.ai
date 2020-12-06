@@ -1,6 +1,7 @@
 ## Welcome to the Metaverse Genesis
 
-MetaGen is a project to explore and develop the intersection between AI and VR/AR.
+MetaGen is a project to explore and develop the intersection between AI and VR/AR. 
+<img alt="logo based on Avali icon by Ryuujin-ZERO, CC-BY" src="logo_feathers.png" width="150px"></img>
 
 ## Why?
 
