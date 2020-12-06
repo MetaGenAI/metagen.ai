@@ -55,7 +55,7 @@ The tl;dr is: data. The more the better. The higher the quality and the diversit
 
 These are not easy things to achieve. But they are definitely not impossible. I have been working as hard as I can to solve the technical hurdles (https://github.com/MetaGenAI/MetaGenNeos https://github.com/oxai/vrai), but that alone means nothing, without **people**. I want everyone to own this project and this vision. *I can only show you the door; you are the one that has to walk through it*. 
 
-Please, super most definitely contact me (@guillefix in twitter) if you want to help with technical or social aspects of this project. But the easiest thing everyone can contribute just by virtue of being human (or sentient) is data. Your data can be worth more than ads. Your data could be our data *communism anthem plays* (lol, ok that sounds creepy). Seriously, you have the freedom to do whatever you want with your data. I'm just showing you one cool thing you can do with some bits of it, if you want (but like srsly we could do super cool things).
+Please, super most definitely contact me (@guillefix in twitter) if you want to help with technical or social aspects of this project. But the easiest thing everyone can contribute just by virtue of being human (or sentient) is data. Your data can be worth more than ads. Your data could be our data *communism anthem plays* (lol, ok that sounds creepy). Seriously, you have the freedom to do whatever you want with your data. I'm just showing you one cool thing you can do with some bits of it, if you want. You always choose what to share or not to share. (but really, we could do super cool things:)).
 
 ![I can only show you the door; you are the one that has to walk through it](morpheus.jpg)
 
