@@ -1,6 +1,6 @@
 <img alt="logo based on Avali icon by Ryuujin-ZERO, CC-BY" title="logo based on Avali icon by Ryuujin-ZERO, CC-BY" src="logo_feathers.png" width="150px" style="float:right;">
 
-## Welcome to the Metaverse Genesis
+## Welcome to Metaverse Genesis
 
 MetaGen is a project to explore and develop the intersection between AI and VR/AR. 
 
