@@ -25,7 +25,11 @@ Let me be clear: I don't think VR will give us all that we need to fully answer 
 
 ### AI research
 
-Even if the progress in the above quesionts is limited, the progress in AI *technologies* may be more noticable. I have made a case [in this post](https://www.linkedin.com/pulse/crowdsourcing-human-level-ai-through-social-vr-guillermo-valle/) that models that learn from human-produced data have made impressive progress in restricted domains like [text](https://www.gwern.net/GPT-3), image understanding, speech comprehension, etc, and we are beginning to understand the properties of this advancements, like how much data and compute are needed. I argue that for multimodal understanding (related to the subtle questions about emotion perception, etc. I mentioned above), we are currently primarily **data-limited**. Therefore, to advance AI research in this important direction we need, like above, multimodal data abou how humans speak, move, and behave, in different situations, represented by the stream of multi-sensory stimuli (hearing, vision, touch, etc). The kind of data that VR makes available in digital form.
+Even if the progress in the above quesionts is limited, the progress in AI *technologies* may be more noticable. I have made a case [in this post](https://www.linkedin.com/pulse/crowdsourcing-human-level-ai-through-social-vr-guillermo-valle/) that models that learn from human-produced data have made impressive progress in restricted domains like [text](https://www.gwern.net/GPT-3), image understanding, speech comprehension, etc, and we are beginning to understand the properties of this advancements, like how much data and compute are needed.
+
+I argued that for multimodal understanding (related to the subtle questions about emotion perception, etc. I mentioned above), we are currently primarily **data-limited**. 
+
+Therefore, to advance AI research in this important direction we need, like above, multimodal data abou how humans speak, move, and behave, in different situations, represented by the stream of multi-sensory stimuli (hearing, vision, touch, etc). The kind of data that VR makes available in digital form.
 
 ### Games and animation
 
