@@ -63,4 +63,4 @@ I'm just looking for some small samples at the moment to evaluate data quality (
 
 Contact me [@guillefix](https://twitter.com/guillefix) on twitter, or guillefix#5692 on discord, or ｇｕｉｌｌｅｆｉｘ＠ｇｍａｉｌ．ｃｏｍ, if you're interested
 
-<big>[Join our discord server](discord.gg/HQ8Crcw)</big>
+<big>[Join our discord server](http://discord.gg/HQ8Crcw)</big>
