@@ -4,6 +4,8 @@
 
 MetaGen is a project to explore and develop the intersection between AI and VR/AR. 
 
+<big>[Join our discord server](http://discord.gg/HQ8Crcw)</big>
+
 ## Why?
 
 
