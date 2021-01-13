@@ -4,6 +4,10 @@
 
 MetaGen is a project to explore and develop the intersection between AI and VR/AR. 
 
+<big>New recording tool released!</big>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgQmuIQYoBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <big>[Join our discord server](http://discord.gg/HQ8Crcw)</big>
 
 ## Why?
