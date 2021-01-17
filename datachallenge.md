@@ -2,11 +2,13 @@
 
 Do you want to earn some NCR while doing stuff you love, and at the same time contribute to science and the future? Well, then you may wanna participate in the following challenge^^
 
-The **MetaGen Data Challenge** is the first initiative to engage social VR users in AI research, so that they can contribute to it, and benefit from it. For it, we are looking for people who want to record their VR activities and share them to a public dataset for AI research. We will be using the [MetaGen Recording tool](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle), and will be offering **two bounties** for the first people to reach certain milestones:
+The **MetaGen Data Challenge** is the first initiative to engage social VR users in AI research, so that they can contribute to it, and benefit from it. For the challenge, we are looking for people who want to record their VR activities and share them to a public dataset for AI research. We will be using the [MetaGen Recording tool](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle), and will be offering **two bounties** for the first people to reach certain milestones:
 
 * **500 NCR** for the first person or group to reach 24h of public domain recordings of **general and social activities**. The recordings can of anything that involves social interaction (acting, role playing, chatting), but also other activities like dancing, or playing games. More details below.
 
 * **500 NCR** for the first person or group to reach 12h of public domain recordings of **dancing**. This is particularly aimed at the VR dancing community, like members of IDA and others:)
+
+The idea is that if you do acting, roleplaying, streaming, playing social games, dancing, etc., then you can do any of those things, but use the bot to record them (which is as easy as pressing a couple of buttons, as explained [int the video](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle)). Below, I'll explain in more detail what kind of things it would be interesting to record (from the perspective of being useful/fun for an AI to learn from), as well as how to use the tool in more detail.
 
 ## General and social activities category
 
@@ -49,7 +51,17 @@ You can check [this video](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channe
 Here are some more details
 
 * The tool only records friends of the bot, by default. Any person can override this by checking the "Record me" local checkbox in the tool.
+
+* You can check how many hours, both total and public, you have recorded by sending a message to the bot saying "info".
+
 * On the tool, you can check whether you are submitting the current recording to the public dataset (necessary to count for the MetaGen Data Challenge). Friends have this checked by default, but it can also be overriden by changing the checkbox in the bot's UI. You can also change the default by sending a message to the bot saying "default no public", to set the default to be private, or "default public" to set the default back to public.
+
 * Sometimes the bot may crash, or perhaps someone deleted the UI. You can tell the bot to generate a new UI by sending it a message saying "reset".
 
 There is also a version of the puglin you can use locally, but which doesn't allow you to connect to sessions with people who are not running the plugin. If you want to use the local version, let me know (@guillefix on twitter or guillefix#5692 on discord), and I'll explain how to use it. You can also check the source code [here](https://github.com/MetaGenAI/MetaGenNeos) if you are programmer.
+
+## Future
+
+Hopefully this is just the first of many more fun activities at the intersection between AI and the metaverse! More rewards and things will come to participants:) I will also list anyone who has donated to the public dataset on the acknowledgments of a sientific publication which presents the dataset.
+
+[Join our discord server](http://discord.gg/HQ8Crcw) to keep track of updates or to ask questions
