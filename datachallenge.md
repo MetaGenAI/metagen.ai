@@ -4,18 +4,18 @@ Do you want to earn some NCR while doing stuff you love, and at the same time co
 
 The **MetaGen Data Challenge** is the first initiative to engage social VR users in AI research, so that they can contribute to it, and benefit from it. For the challenge, we are looking for people who want to record their VR activities and share them to a public dataset for AI research. We will be using the [MetaGen Recording tool](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle), and will be offering **two bounties** for the first people to reach certain milestones:
 
-* **500 NCR** for the first person or group to reach 24h of public domain recordings of **general and social activities**. The recordings can of anything that involves social interaction (acting, role playing, chatting), but also other activities like dancing, or playing games. More details below.
+* **500 NCR** for the first person or group to reach 24h of public domain recordings of **general and social activities**. The recordings can be of anything that involves social interaction (acting, role playing, chatting), but also other activities like dancing, or playing games. More details below.
 
 * **500 NCR** for the first person or group to reach 12h of public domain recordings of **dancing**. This is particularly aimed at the VR dancing community, like members of IDA and others:)
 
-The idea is that if you do acting, roleplaying, streaming, playing social games, dancing, etc., then you can do any of those things, but use the bot to record them (which is as easy as pressing a couple of buttons, as explained [int the video](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle)). Below, I'll explain in more detail what kind of things it would be interesting to record (from the perspective of being useful/fun for an AI to learn from), as well as how to use the tool in more detail.
+The idea is that if you do acting, roleplaying, streaming, playing social games, dancing, etc., then you can do any of those things, and use the bot to record them (which is as easy as pressing a couple of buttons, as explained [int the video](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle)). Below, I'll explain in more detail what kind of things it would be interesting to record (from the perspective of being useful/fun for an AI to learn from), as well as how to use the tool in more detail.
 
 ## General and social activities category
 
 This is intended to be a very broad category, but with an emphasis on social activities, but also "active" games.
 Examples of things that count:
 
-* Acting, or roleplaying
+* Acting, or roleplaying (whether solo or in a group)
 * Chatting with friends
 * Podcasts
 * Most games that have a physical or social component, like the collaborative maze puzzle by InnocentThief, or many others.
