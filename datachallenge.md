@@ -1,6 +1,6 @@
 # MetaGen Data Challenge
 
-Do you want to earn some NCR while doing fun stuff you enjoy, and at the same time contribute to science and the future? Well, then you may wanna participate in the following challenge^^
+Do you want to earn some NCR while doing fun stuff you enjoy, and at the same time contribute to science and the future? Well, then you may wanna participate in the following challenge^^ <b><big>We need your help to train a really awesome AI!</big></b>
 
 The **MetaGen Data Challenge** is the first initiative to engage social VR users in AI research, so that they can contribute to it, and benefit from it. For the challenge, we are looking for people who want to record their VR activities and share them to a public dataset for AI research. We will be using the [MetaGen Recording tool](https://www.youtube.com/watch?v=PgQmuIQYoBE&ab_channel=GuillermoValle), and will be offering **two bounties** for the first people to reach certain milestones:
 
