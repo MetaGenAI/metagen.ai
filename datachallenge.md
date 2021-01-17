@@ -60,6 +60,8 @@ Here are some more details
 
 There is also a version of the puglin you can use locally, but which doesn't allow you to connect to sessions with people who are not running the plugin. If you want to use the local version, let me know (@guillefix on twitter or guillefix#5692 on discord), and I'll explain how to use it. You can also check the source code [here](https://github.com/MetaGenAI/MetaGenNeos) if you are programmer.
 
+Also do contact me about any bugs, problems, ideas, or feedback about the bot!
+
 ## Future
 
 Hopefully this is just the first of many more fun activities and challenges at the intersection between AI and the metaverse! More rewards and things will come to participants:) I will also list anyone who has donated to the public dataset on the acknowledgments of a sientific publication which presents the dataset.
