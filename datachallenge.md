@@ -62,6 +62,6 @@ There is also a version of the puglin you can use locally, but which doesn't all
 
 ## Future
 
-Hopefully this is just the first of many more fun activities at the intersection between AI and the metaverse! More rewards and things will come to participants:) I will also list anyone who has donated to the public dataset on the acknowledgments of a sientific publication which presents the dataset.
+Hopefully this is just the first of many more fun activities and challenges at the intersection between AI and the metaverse! More rewards and things will come to participants:) I will also list anyone who has donated to the public dataset on the acknowledgments of a sientific publication which presents the dataset.
 
 [Join our discord server](http://discord.gg/HQ8Crcw) to keep track of updates or to ask questions
