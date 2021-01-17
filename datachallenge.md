@@ -56,7 +56,7 @@ Here are some more details
 
 * On the tool, you can check whether you are submitting the current recording to the public dataset (necessary to count for the MetaGen Data Challenge). Friends have this checked by default, but it can also be overriden by changing the checkbox in the bot's UI. You can also change the default by sending a message to the bot saying "default no public", to set the default to be private, or "default public" to set the default back to public.
 
-* Sometimes the bot may crash, or perhaps someone deleted the UI. You can tell the bot to generate a new UI by sending it a message saying "reset".
+* Sometimes the bot may crash, or perhaps someone deleted the UI. You can tell the bot to generate a new UI by sending it a message saying "reset", or by inviting it to a new session.
 
 There is also a version of the puglin you can use locally, but which doesn't allow you to connect to sessions with people who are not running the plugin. If you want to use the local version, let me know (@guillefix on twitter or guillefix#5692 on discord), and I'll explain how to use it. You can also check the source code [here](https://github.com/MetaGenAI/MetaGenNeos) if you are programmer.
 
