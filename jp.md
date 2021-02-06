@@ -1,6 +1,6 @@
 <img alt="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" title="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" src="logo_feathers.png" width="150px" style="float:right;">
 
-## Metaverse Genesisようこそ
+## Metaverse Genesisへようこそ
 
 MetaGenは、AIとVR/ARの間の交差点を調査し、開発するプロジェクトです。
 
