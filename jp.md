@@ -1,6 +1,6 @@
 <img alt="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" title="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" src="logo_feathers.png" width="150px" style="float:right;">
 
-## 後世世へようこそ
+## Metaverse Genesisようこそ
 
 MetaGenは、AIとVR/ARの間の交差点を調査し、開発するプロジェクトです。
 
@@ -43,26 +43,19 @@ MetaGenは、AIとVR/ARの間の交差点を調査し、開発するプロジェ
 
 このビデオを見て
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pe-YTvavbtA" frameborder="0" allow="加速度計；自動再生；クリップボードの書き込み；暗号化されたメディア；ジャイロスコープ；ピクチャインピクチャー"許可全画面></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pe-YTvavbtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 この技術は、アニメの分野やゲームのAIに大きな影響を与えるだろう。より現実的な性格、より自治性、多様性など
 
-
-
-
 でもそのビデオは始まりにすぎない。現在、それらのキャラクターは何も見たり、聞いたり、感じたりしません。これらの問題を解決するには、モデルデザインにいくつかの賢いアイデアが必要になります。しかし、前の節で述べたように、私の経験から、主なボトルネックはデータであることが分かります。上のビデオのモデルは、最大でも数十時間のデータに関するトレーニングを受けています。VRChatは2018年だけで1,600万時間のVRデータを生成しました。私が言うのは、標準的なゲームNPCと、あなたの気持ちを理解できる仮想的な存在との違い、そしておそらくは、それ自体のプロトバージョンがVRChatデータ（あるいはそれと同等のもの）の1年間だと思う時です。
 
-直感と常識を持つエージェントを手に入れるのも始まりだと思う。Metaverseに[autonomy and quoritity](https://www.youtube.com/watch?v=7bJ0fnvPLaA)を与えることは、生命や知性、その他の何が計算上の宇宙の無限の深さに存在するかについて、Metaverseを引き出すための次のステップです(例えば、[Lenia](https://twitter.com/BertChakovsky/status/1316402836880547841)での素晴らしい作業を参照)。
+直感と常識を持つエージェントを手に入れるのも始まりだと思う。Metaverseに[autonomy and curiosity](https://www.youtube.com/watch?v=7bJ0fnvPLaA)を与えることは、生命や知性、その他の何が計算上の宇宙の無限の深さに存在するかについて、Metaverseを引き出すための次のステップです(例えば、[Lenia](https://twitter.com/BertChakovsky/status/1316402836880547841)での素晴らしい作業を参照)。
 
 ### エンターテイメントなど
 
 より人間的なバーチャルな存在は、全く新しいゲームや楽しい体験を可能にします。最初の真のAI VTuber、つまりあなたを知り、サポートを提供してくれるAIの友人、あるいはあなたが（合理的に）必要とするものを想像してみてください。
 
 ダンスを教えたり、公の場で話したり、感情的な知性を高めたり、失敗した理由や失敗した理由を理解したり、より良い方法を教えるバーチャル・コーチを想像してみてください。オートコンプリートを想像してみてください。しかし、おかしいのは、それがどんなに愚かかかったかではなく、実際には、「文脈の中で」意味のある、機知に富んだ提案をするからです。
-
-
-
-
 
 
 ## 方法
