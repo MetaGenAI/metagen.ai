@@ -1,4 +1,4 @@
-<img alt="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" title="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" src="logo_bhesers.png" width="150px" style="float:right;">
+<img alt="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" title="Ruujin-ZERO, CC-BYによるAvaliアイコンに基づくロゴ" src="logo_feathers.png" width="150px" style="float:right;">
 
 ## 後世世へようこそ
 
@@ -76,3 +76,4 @@ tl;dr:データ。もっと良くなる。質や多様性が高ければ高い�
 ![ドアしか見せられない。あなたは、その中を歩かなければならない人です](morpheus.jpg)
 
 ## 何？
+
