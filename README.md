@@ -69,7 +69,8 @@ Please, super most definitely contact me (@guillefix in twitter) if you want to 
 
 Many things. But at the moment, we are looking for VR dancers to gather data from their dancing. We wanna teach an AI to dance. We think it would be a cool project to start with, and showing the scientific community the value of this idea, while having fun! 
 
-I'm just looking for some small samples at the moment to evaluate data quality (not how well you dance, but the tracking). If it's good (it probably will be), we'll try to gather more data, and begin training our AI models:) The data will be made publicly available for other researchers to use, and the tools will be open sourced.
+We are also looking for other kinds of data, and we are offering some NCR for it. You can check out more at the [MetaGen Data Challenge](datachallenge.html).
+The data will be made publicly available for other researchers to use, and the tools will be open sourced.
 
 Contact me [@guillefix](https://twitter.com/guillefix) on twitter, or guillefix#5692 on discord, or ｇｕｉｌｌｅｆｉｘ＠ｇｍａｉｌ．ｃｏｍ, if you're interested
 
