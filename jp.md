@@ -6,7 +6,7 @@ MetaGenは、AIとVR/ARの間の交差点を調査し、開発するプロジェ
 
 <big>新しい録音ツールがリリースされました！</big>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PgQmuIQYoBE" frameborder="0" allow="加速度計；自動再生；クリップボードの書き込み；暗号化されたメディア；ジャイロスコープ；ピクチャインピクチャー"許可全画面></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgQmuIQYoBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <big>[ディスコードサーバーに参加](http://discord.gg/HQ8Crcw)</big>
 
