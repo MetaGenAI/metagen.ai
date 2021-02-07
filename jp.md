@@ -70,6 +70,6 @@ tl;dr:データ。もっと良くなる。質や多様性が高ければ高い�
 
 ## 何？
 
-[MetaGenデータの課題数](datachallenge-jp.html)にアクセスしてください!
+[MetaGenデータチャレンジ](datachallenge-jp.html)にアクセスしてください!
 
 [ディスコードサーバに参加](http://discord.gg/HQ8Crcw)更新情報を追跡したり、質問をしたりします。
