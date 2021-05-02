@@ -24,7 +24,7 @@ This document explains how to record motion data using VMC, in BVH format.
 
 1. Download my version of vmc2bvh from [here](/files/vmc2bvh/vmc2bvh.zip) and unzip the file.
 2. *(Optional). Start OBS now. If you want to record the motion syncced to some video and/or audio data (e.g. for dancing, or playing some VR game), you should start OBS first. The vmc2bvh executable will play a beep sound when it starts recording, so that later, the recorded video/audio can be syncced with the motion.*
-3. While VMC is running (with the OSC motion sender set up as described in the previous section), execute the batfile `run_vmc2bvh.bat`. As mentioned above, it will emit a beep sound when the motion recording begins. <sub>You may need to allow it through Windows Defender if you get a windows saying "Windows protected your PC". Click More Info, and then Run anyway. You may also need to allow it through the firewall.</sub>
+3. While VMC is running (with the OSC motion sender set up as described in the previous section), execute the batfile `run_vmc2bvh.bat`. As mentioned above, it will emit a beep sound when the motion recording begins. <small>You may need to allow it through Windows Defender if you get a windows saying "Windows protected your PC". Click More Info, and then Run anyway. You may also need to allow it through the firewall.</small>
 4. When you want to finish the recording, press ctrl+C twice on the terminal which is running vmc2bvh.exe.
 
 <img alt="vmc2bvh" title="vmc2bvh" src="img/vmc/vmc2bvh.png" width="600px"></img>
