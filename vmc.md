@@ -1,4 +1,4 @@
-This document explains how to record motion data using VMC, in BVH format.
+This page explains how to record motion data using VMC, in BVH format. You can use this to do "home mocap" to easily create animations, or to do VR [lifelogging](https://www.wikiwand.com/en/Lifelog) (best way to approximate immortality / keep a record of yourself!), to help in the [metagen project](index.html), or anything else you may want!
 
 ## Basic set up of VMC
 
