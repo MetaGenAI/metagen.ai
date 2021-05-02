@@ -4,7 +4,7 @@ This document explains how to record motion data using VMC, in BVH format.
 
 **You can skip this section if you already have VMC setup**
 
-1. Download the paid version of VMC, which supports broadcasting the data using websockets. You can get it here https://akira.fanbox.cc/ or in [her patreon](https://www.patreon.com/sh_akira). You can also contact me (@guillefix on twitter or guillefix#5692 on discord) if you want to give it a try, but you should support her through those means if you plan to use the tool regularly.
+1. Download the paid version of VMC, which supports broadcasting the data using websockets. You can get it [here](https://akira.fanbox.cc/) or in [her patreon](https://www.patreon.com/sh_akira). You can also contact me (@guillefix on twitter or guillefix#5692 on discord) if you want to give it a try, but you should support her through those means if you plan to use the tool regularly.
 2. Import VRM avatar by clicking on "Open VRM" in the Control Panel and then "Import VRM". You can choose your own VRM avatar, or use [this free one](https://drive.google.com/file/d/1T8WAUYqWxbNQUVaL7Mq2KbgkE-VnYde7/view?usp=sharing).
 3. Calibrate by pressing "Calibration". You can select the normal mode, and then press "Calibration" on the Calibration pop up. Then make sure yo place the three balls representing head, hands, and other trackers, at the correct points in the T-posed avatar. You can see more info at [https://vmc.info/](https://vmc.info/). 
 <img alt="vmc_calibration" title="vmc_calibration" src="img/vmc/vmc_calibration.jpg" width="600px"></img>
