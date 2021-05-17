@@ -1,0 +1,37 @@
+{
+  "name": "metagen.ai",
+  "version": "1.0.0",
+  "description": "metagen.ai website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaGenAI/metagen.ai.git"
+  },
+  "author": "Guillermo Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaGenAI/metagen.ai/issues"
+  },
+  "homepage": "https://github.com/MetaGenAI/metagen.ai#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-react": "^7.13.13",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^17.0.2",
+    "react-addons-update": "^15.6.3",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "react-hook-mathjax": "^2.0.5",
+    "resolve-cwd": "^3.0.0"
+  }
+}

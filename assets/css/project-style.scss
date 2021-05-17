@@ -1,0 +1,128 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "variables.scss";
+$fa-font-path: "fonts/font-awesome/";
+@import "font-awesome/fontawesome.scss";
+
+$dark: #2e2e2e;
+$dark2: #575757;
+$light1: #f5f5f5;
+$out-width: 850px;
+$link-color: rgb(82, 189, 0);
+$link-color-hover: rgb(241, 206, 88);
+
+body {
+  background: $light1;
+  // background: white;
+  color: $dark;
+}
+
+a {
+  color: $link-color;
+}
+
+section #title h1 {
+  margin: 0 0 10px 0;
+}
+
+section #title {
+  margin: 0 0 20px 0;
+}
+
+a:hover {
+  color: $link-color-hover;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  color: $dark;
+}
+
+section #title p {
+  color: $dark2;
+}
+
+.wrapper {
+    max-width: $out-width;
+}
+
+section {
+    max-width: $out-width;
+    margin-top: 0px;
+}
+
+.authors {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+.authors ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.authors ul li {
+  float: left;
+  display: inline-block;
+  width: 10em;
+}
+
+.affiliations {
+  text-align: center;
+}
+
+.affiliations ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.affiliations ul li {
+  float: left;
+  display: inline-block;
+  width: 10em;
+}
+
+.centered {
+  text-align: center;
+}
+
+.centered ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.centered ul li {
+  float: left;
+  display: inline-block;
+  width: 10em;
+}
+
+.centered.assets ul li {
+  float: left;
+  display: inline-block;
+  width: 6em;
+  text-align: center;
+}
+
+
+.project-button {
+    text-align: center;
+    width: 4em;
+    line-height: 0.1em;
+    margin: auto;
+}
+
+.project-button i {
+    font-size: 3em;
+}
+

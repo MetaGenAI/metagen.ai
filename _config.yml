@@ -2,3 +2,10 @@ theme: jekyll-theme-midnight
 title: MetaGen
 description: Bringing AI to the Metaverse, and viceversa
 github_url: https://github.com/MetaGenAI/
+exclude: ['node_modules']
+gems:
+  - jekyll-font-awesome-sass
+sass:
+    sass_dir: assets/css
+font-awesome:
+  assets: true

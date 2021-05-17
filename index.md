@@ -1,16 +1,26 @@
+---
+page: home
+---
+
 <img alt="logo based on Avali icon by Ryuujin-ZERO, CC-BY" title="logo based on Avali icon by Ryuujin-ZERO, CC-BY" src="logo_feathers.png" width="150px" style="float:right;">
 
 ## Welcome to Metaverse Genesis
 
 MetaGen is a project to explore and develop the intersection between AI and VR/AR. 
 
-<big>New: [Short poll to gauge interest in participating](https://docs.google.com/forms/d/e/1FAIpQLSfRyX7R4qXIbF6BtlOYhl9KmB-XZyGaQIwxAunAsdBfJ6mI3w/viewform)</big>
+The main aim is to develop open datasets and open source machine learning models, and related tools, that build on the rich multimodal data that VR and 3D technologies offer. The current project is to develop generative models of motion (conditioned on other modalities), and trained from VR data. However, the vision, explained below, is much larger. Ultimately, we want to understand intelligence and keep exploring what lies beyond:)
+
+<!-- [Short poll to gauge interest in participating in VR studies](https://docs.google.com/forms/d/e/1FAIpQLSfRyX7R4qXIbF6BtlOYhl9KmB-XZyGaQIwxAunAsdBfJ6mI3w/viewform) -->
 
 <!-- Recording tool released! -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/PgQmuIQYoBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<big>[Join our discord server](http://discord.gg/HQ8Crcw)</big>
+<!-- <big>[Join our discord server](http://discord.gg/HQ8Crcw)</big> -->
+
+<div style="text-align:center">
+<img src="assets/img/decorator1.svg" style="width:50%"/>
+</div>
 
 ## Motivation
 
@@ -56,6 +66,14 @@ I think getting agents with intuition and common sense is also the beginning. Gi
 Virtual beings that are more human-like would enable whole new game and entertaining experiences. Imagine the first truly AI VTuber, or an AI friend who gets to know you and offer you support, or whatever you may (reasonably) need.
 
 Imagine a virtual coach that teaches you to dance, or to do public speaking, or to get better at emotional intelligence, and can understand how and why you fail, and how you can do better. Imagine autocomplete, but where it's funny not because of how stupid it is, but because it actually makes witty suggestions which make sense *in context*.
+
+### Biotechnology and digital twins
+
+As XR technologies, digitize more and more about us, new challenges and opportunities emerge. The opportunity comes from the potential uses of large scale datasets of correlated biometrics, for medicine and biotechnology. Widespread digital twins (imagine [this](https://3d4medical.com/) but with molecular detail, real time, and personalized to each of us) would revolutionize medicine. It is also a stepping stone towards [digital immortality](https://www.wikiwand.com/en/Digital_immortality). The challenges lie in the creation of systems that facilitate data availability for research while ensuring ethical uses, privacy, and agency of data owners, and other stakeholders.
+
+Regarding the opportunities, one can look at existing projects attempting to enable large scale and ethical use of biomedical data for research. [The UK Biobank](https://www.ukbiobank.ac.uk/) has longitudinal data (i.e. data of the same person collected over time) for 500,000 participants, for a variety of biomarkers (including blood samples and general physiolgical metrics). With this data, scientists are [understanding the long-term role of diet on diseases](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/our-impact/the-connection-between-diet-and-health), enabling life-saving early-detection of [dementia](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/our-impact/spotting-dementia-early) and [cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7226426/), among many others. Similar projects are ongoing in other countries, like [Japan](https://biobankjp.org/english/), [China](http://www.shbiobank.com/), [US](https://www.joinallofus.org/) and [others](https://www.biobanking.com/10-largest-biobanks-in-the-world/).
+
+This projects are already saving and improving many lives. However, technology is giving us the opportunity to scale this up, and advance biomedical knowledge much much further. Scaling up biomedical data collection while keeping ethical standards and security is a challenge though. Some organizations are exploring solutions for this challenge. [OpenHumans](https://www.openhumans.org/) is taking the approach of giving data owners full agency over what happens over their data, by letting them decide in a granular way what data is shared with whom for which purpose. However, this approach has limits. Right now, OpenHumans relies on a community governance approach to veto projects that are allowed to request data. It is unclear how scalable this is, and how amenable to abuse, or error. [OpenMined](https://www.openmined.org/) is attempting to go further by relying on cryptographic techniques to achieve trust-less access to data for machine learning. This is one of the biggest challenges in medicine in the coming decades, and also one of the most important ones to solve!
 
 ## How?
 
