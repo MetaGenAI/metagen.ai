@@ -51,5 +51,6 @@ We'll working with
 
 - [NeosVR](https://neos.com/). See issues [here](https://github.com/MetaGenAI/MetaGenNeos/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 - [XREngine](https://github.com/XRFoundation/XREngine)
+- [RhubarbVR](https://github.com/RhubarbVR/RhubarbVR/)
 
 as well with friends in the [TPUPodcast discord](https://discord.gg/6ABGU2476B), [Eleuther](https://www.eleuther.ai/), [FLOWERS](https://flowers.inria.fr/) (where I'm currently working), [KTH](https://www.kth.se/is/tmh/division-of-speech-music-and-hearing-1.780110), and whoever else joins us in this journey:)
