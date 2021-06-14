@@ -4,8 +4,28 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import { Tex2SVG, MathJaxProvider } from "react-hook-mathjax";
 import { ColoredRect, EquationRect, Arrow, MarkerDefs } from "./components/diagram.jsx";
+import { Petal } from "./components/drawing.jsx";
 
-class App extends Component {
+
+class TransflowerLogo extends Component {
+  render() {
+    return (
+        <svg width="100%" height="100%" viewBox="0 0 240 240">
+          <MarkerDefs />
+          <g transform="translate(120,120)">
+            <Petal rot="0" color="#FF0018" caption="movement" />
+            <Petal rot="60" color="#FFA52C" caption="hearing" />
+            <Petal rot="120" color="#FFFF41" caption="speech (soon)" />
+            <Petal rot="180" color="#008018" caption="language (soon)" />
+            <Petal rot="240" color="#0000F9" caption="vision (soon)" />
+            <Petal rot="300" color="#86007D" caption="touch (soon)" />
+          </g>
+        </svg>
+    );
+  }
+}
+
+class TransflowerArchitecture extends Component {
   render() {
     const mathJaxOptions = {
       svg: {
@@ -257,4 +277,5 @@ class App extends Component {
   }
 }
 
-render(<App />, document.getElementById("transflower-visualization"));
+render(<TransflowerArchitecture />, document.getElementById("transflower-visualization"));
+render(<TransflowerLogo />, document.getElementById("transflower-logo"));
