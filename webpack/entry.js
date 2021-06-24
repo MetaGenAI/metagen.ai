@@ -44,6 +44,7 @@ class TransflowerArchitecture extends Component {
         titleID: 0 // initial id number to use for aria-labeledby titles
       }
     };
+    const baseUrl="https://github.com/guillefix/mt-lightning/blob/main/";
     return (
       <MathJaxProvider options={mathJaxOptions}>
         {/* <svg width={window.innerWidth} height={window.innerHeight}> */}
@@ -61,6 +62,7 @@ class TransflowerArchitecture extends Component {
                 eqShiftY={17}
                 eq="x_{i-k_x},...,x_{i-1}"
                 color="#bfc6ff"
+                targetUrl={baseUrl+"models/transflower_model.py#L177"}
               />
             <EquationRect
                 x={170}
@@ -72,6 +74,7 @@ class TransflowerArchitecture extends Component {
                 eqShiftY={17}
                 eq="m_{i-k_m},...,m_{i+l_m}"
                 color="#bfc6ff"
+                targetUrl={baseUrl+"models/transflower_model.py#L177"}
               />
               <ColoredRect
                 x={0}
@@ -80,6 +83,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 text="Motion encoder"
                 color="#a5e872"
+                targetUrl={baseUrl+"models/transflower_model.py#L31"}
               />
               <ColoredRect
                 x={170}
@@ -88,6 +92,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 text="Audio Encoder"
                 color="#a5e872"
+                targetUrl={baseUrl+"models/transflower_model.py#L31"}
               />
               <ColoredRect
                 x={0}
@@ -96,6 +101,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 text="Cross-modal transformer"
                 color="#a5e872"
+                targetUrl={baseUrl+"models/transflower_model.py#L45"}
               />
               <EquationRect
                 x={0}
@@ -104,6 +110,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 color="#f7abeb"
                 eq="\mathbf{h}"
+                targetUrl={baseUrl+"models/transflower_model.py#L211"}
               />
               <Arrow
                 x1={50}
@@ -123,6 +130,7 @@ class TransflowerArchitecture extends Component {
                 height={210}
                 text={["Normalizing", "Flow"]}
                 color="#a5e872"
+                targetUrl={baseUrl+"models/transflower_model.py#L68"}
               />>
               <EquationRect
                 x={0}
@@ -131,6 +139,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 color="#ababab"
                 eq="z\sim \mathcal{N}(0,1)"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L93"}
               />
             <EquationRect
                 x={0}
@@ -142,6 +151,7 @@ class TransflowerArchitecture extends Component {
                 eqShiftY={17}
                 eq="x_{i},...,x_{i+N}"
                 color="#bfc6ff"
+                targetUrl={baseUrl+"models/transflower_model.py#L167"}
               />
             </g>
             <g transform="translate(600,130)">
@@ -154,6 +164,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 text={"BatchNorm"}
                 color="#a5e872"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L159"}
               />
               <ColoredRect
                 x={0}
@@ -162,6 +173,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 text={"Inv 1x1 Conv"}
                 color="#a5e872"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L168"}
               />
               <ColoredRect
                 x={0}
@@ -171,6 +183,7 @@ class TransflowerArchitecture extends Component {
                 text={["Affine coupling", "layer"]}
                 textProps={{ fontSize: "0.8em" }}
                 color="#a5e872"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L169"}
               />>
             </g>
             <g transform="translate(740,100)">
@@ -193,6 +206,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 eq="z_i"
                 color="#ababab"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L266"}
               />
               <EquationRect
                 x={0}
@@ -201,6 +215,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 eq="z_i'"
                 color="#ababab"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L266"}
               />
               <ColoredRect
                 x={55}
@@ -209,6 +224,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 text="Split"
                 color="rgba(0,0,0,0)"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L266"}
               />
               <EquationRect
                 x={110}
@@ -217,6 +233,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 eq="z_i''"
                 color="#ababab"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L266"}
               />
               <ColoredRect
                 x={0}
@@ -225,6 +242,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 text="Concat"
                 color="rgba(0,0,0,0)"
+                targetUrl={baseUrl+"models/flowplusplus/coupling.py#L45"}
               />
               <EquationRect
                 x={0}
@@ -233,6 +251,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 eq="z_i'"
                 color="#ababab"
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L266"}
               />
               <EquationRect
                 x={0}
@@ -241,6 +260,7 @@ class TransflowerArchitecture extends Component {
                 height={40}
                 eq="\mathbf{h}"
                 color="#f7abeb"
+                targetUrl={baseUrl+"models/flowplusplus/coupling.py#L45"}
               />
               <EquationRect
                 x={0}
@@ -249,6 +269,7 @@ class TransflowerArchitecture extends Component {
                 height={20}
                 eq="z_i'"
                 color="#ababab"
+                targetUrl={baseUrl+"models/flowplusplus/coupling.py#L45"}
               />
               <ColoredRect
                 x={0}
@@ -258,6 +279,7 @@ class TransflowerArchitecture extends Component {
                 text={["Coupling", "Transformer"]}
                 color="#a5e872"
                 textProps={{ fontSize: "0.8em" }}
+                targetUrl={baseUrl+"models/flowplusplus/coupling.py#L27"}
               />>
               <ColoredRect
                 x={0}
@@ -267,6 +289,7 @@ class TransflowerArchitecture extends Component {
                 text="Affine coupling"
                 color="#a5e872"
                 textProps={{ fontSize: "0.8em" }}
+                targetUrl={baseUrl+"models/flowplusplus/flowplusplus.py#L200"}
               />
               <Arrow x1={160} y1={150} x2={160} y2={25} o1="up" o2="up" />
             </g>

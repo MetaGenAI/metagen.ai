@@ -39,18 +39,20 @@
           <!-- <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span> -->
           <!-- <span class="credits right">Hosted on GitHub Pages </span> -->
           <div class="authors">
-            <ul>
+            <!-- <ul> -->
               {% for a in page.authors %}
-                <li><a href='{{ a["url"] }}'>{{ a["name"] }}</a></li>
+                <!-- <li><a href='{{ a["url"] }}'>{{ a["name"] }}</a><span>{{ a["aff"] }}</span></li> -->
+                <span class="author"><a href='{{ a["url"] }}'>{{ a["name"] }}</a><span>{{ a["aff"] }}</span></span>
               {% endfor %}
-            </ul>
+            <!-- </ul> -->
           </div>
           <div class="affiliations">
-            <ul>
+            <!-- <ul> -->
               {% for a in page.affiliations %}
-                <li>{{ a["name"] }}</li>
+                <span class="affiliation"><span>{{ a["aff"] }}</span><a class="affiliation-link" href='{{ a["url"] }}'>{{ a["name"] }}</a></span>
+                <!-- <li><span>{{ a["aff"] }}</span><a class="affiliation-link" href='{{ a["url"] }}'>{{ a["name"] }}</a></li> -->
               {% endfor %}
-            </ul>
+            <!-- </ul> -->
           </div>
           
         </div>

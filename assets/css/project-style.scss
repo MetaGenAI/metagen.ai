@@ -23,6 +23,25 @@ a {
   color: $link-color;
 }
 
+a.affiliation-link {
+  // color: #5d8c84;
+  color: black;
+}
+
+.video iframe {
+  display:block;
+  margin: auto;
+}
+
+.centered img {
+  display:block;
+  margin: auto;
+}
+
+svg a {
+  color: inherit;
+}
+
 section #title h1 {
   margin: 0 0 15px 0;
 }
@@ -55,39 +74,54 @@ section {
 .authors {
   text-align: center;
   margin: 0 0 10px 0;
+  display: block;
 }
 
-.authors ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  display: inline-block;
-}
+// .authors ul {
+//   list-style-type: none;
+//   margin: 0;
+//   padding: 0;
+//   overflow: hidden;
+//   display: inline-block;
+// }
 
-.authors ul li {
-  float: left;
+
+// .authors ul li {
+//   float: left;
+//   display: inline-block;
+//   width: 15em;
+// }
+
+.authors span.author {
+  // float: left;
   display: inline-block;
-  width: 10em;
+  width: 15em;
 }
 
 .affiliations {
+  display: block;
   text-align: center;
 }
 
-.affiliations ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+.affiliations span.affiliation {
+  // float: left;
   display: inline-block;
+  width: 15em;
 }
 
-.affiliations ul li {
-  float: left;
-  display: inline-block;
-  width: 10em;
-}
+// .affiliations ul {
+//   list-style-type: none;
+//   margin: 0;
+//   padding: 0;
+//   overflow: hidden;
+//   display: inline-block;
+// }
+
+// .affiliations ul li {
+//   float: left;
+//   display: inline-block;
+//   width: 10em;
+// }
 
 .centered {
   text-align: center;
@@ -126,3 +160,14 @@ section {
     font-size: 3em;
 }
 
+.project-button svg {
+    display: inline;
+    height: 3em;
+    fill: $link-color;
+}
+
+.project-button a:hover svg {
+    display: inline;
+    height: 3em;
+    fill: $link-color-hover;
+}

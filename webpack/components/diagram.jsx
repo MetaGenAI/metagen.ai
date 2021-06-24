@@ -7,7 +7,7 @@ export class ColoredRect extends Component {
   //   color: null
   // };
   render() {
-    const { x, y, width, height } = this.props;
+    const { x, y, width, height, targetUrl } = this.props;
     let texts = this.props.text;
     if (typeof texts === "undefined") {
       texts = "";
@@ -16,6 +16,7 @@ export class ColoredRect extends Component {
     let shiftY = this.props.shiftY ? this.props.shiftY : 0;
     if (typeof texts === "string") texts = [texts];
     return (
+      <a href={targetUrl} target="_blank">
       <g>
         <rect
           {...this.props}
@@ -38,6 +39,7 @@ export class ColoredRect extends Component {
         </text>
         {this.props.children}
       </g>
+      </a>
     );
   }
 }
