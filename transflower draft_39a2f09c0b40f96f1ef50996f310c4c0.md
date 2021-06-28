@@ -81,7 +81,7 @@ affiliations:
 <br/>
 
 <div class="centered">
-<img src="img/transflower_image2.png"/>
+<img src="img/transflower_image2b.png"/>
 </div>
 
 # Abstract
