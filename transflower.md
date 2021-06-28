@@ -108,7 +108,7 @@ Next we show some samples of the raw generated motions. Note that in these video
 ## Transflower samples
 
 <iframe width="33%" height="175px" src="https://www.youtube.com/embed/wXQoDdG5lZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="33%" height="175px" src="https://www.youtube.com/watch?v=_XLnWf-oS_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="33%" height="175px" src="https://www.youtube.com/embed/_XLnWf-oS_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="33%" height="175px" src="https://www.youtube.com/embed/OVRvq_hiH_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can see a few more samples in [this playlist](https://www.youtube.com/watch?v=_XLnWf-oS_E&list=PLmwqDOin_Zt51HuQnUJsYFDppubKaATlT&index=7&ab_channel=GuillermoValle)
