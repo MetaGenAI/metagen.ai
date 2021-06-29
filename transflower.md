@@ -38,7 +38,7 @@ affiliations:
     <ul>
         <li>
             <div class="project-button">
-            <a href="#" target="_blank">
+            <a href="https://arxiv.org/abs/2106.13871" target="_blank">
                 <p><i class='fa fa-file-alt'></i></p>
                 <p>Paper</p>
             </a>
@@ -147,6 +147,19 @@ Some parts of the dataset are already publicly available. The AIST++ dataset is 
 ---
 
 ### BibTex
+
+To cite our work, you can use the following BibTex reference
+
+```
+@article{vallepérez2021transflower,
+      title={Transflower: probabilistic autoregressive dance generation with multimodal attention}, 
+      author={Guillermo Valle-Pérez and Gustav Eje Henter and Jonas Beskow and André Holzapfel and Pierre-Yves Oudeyer and Simon Alexanderson},
+      year={2021},
+      eprint={2106.13871},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
+```
 
 
 ### Acknowledgements
