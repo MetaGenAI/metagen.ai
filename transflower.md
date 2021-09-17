@@ -144,6 +144,16 @@ We are compiling the dataset, which comprises several sources, and will release 
 
 Some parts of the dataset are already publicly available. The AIST++ dataset is available [here](https://google.github.io/aistplusplus_dataset/factsfigures.html), and most of the VR dances are available from several playing lists including [this one](https://www.youtube.com/playlist?list=PLfUjxoRin1rx2QEsMHGPrcJk8kghQ7CBP), [this one](https://www.youtube.com/playlist?list=PLfUjxoRin1rwh6iHNIL5A1n7TmJ9s1Oz-), [this one](https://www.youtube.com/playlist?list=PLmwqDOin_Zt4WCMWqoK6SdHlg0C_WeCP6) and [this channel](https://www.youtube.com/channel/UCpf29wLMtgWZHljBD2rZZQQ). These dances can all be visualized in 3D in the VRChat world Papa Dance by lox9973. The VR dance videos can be converted to bvh (and retargetted to any humanoid skeleton) using [this Unity tool](https://github.com/guillefix/shadermotion-bvh-utils), and the features processed as explained [in the code](https://github.com/guillefix/transflower-lightning). However, we will release the full set of features soon, so that it will be easier to replicate and build on this dataset:)
 
+# User study
+
+We performed a user study in which we asked participants to rate Transflower and the two baselines (AI Choreographer and MoGloW trained on the same data), in terms of naturalness, appropriateness to the music, and within-song diversity. The results show Transflower ranks, in average, higher than the two other baselines in all these dimensions. Furthermore fine-tuning increases naturalness and appropriateness, at only a modest decrease in diversity. See the paper for full details.
+
+<div class="centered">
+<img src="assets/img/user_study_results.png"/>
+</div>
+
+<br/>
+
 ---
 
 ### BibTex
