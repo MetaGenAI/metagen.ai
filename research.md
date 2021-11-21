@@ -2,6 +2,8 @@
 page: research
 ---
 
+[Transflower](/transflower). Probabilistic autoregressive dance generation with multimodal attention - using data donated by VR dancers!
+
 Comming (very) soon.
 
 For now you can check for updates in [our discord](http://discord.gg/HQ8Crcw)
