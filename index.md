@@ -12,6 +12,10 @@ The main aim is to develop open datasets and open source machine learning models
 
 <!-- [Short poll to gauge interest in participating in VR studies](https://docs.google.com/forms/d/e/1FAIpQLSfRyX7R4qXIbF6BtlOYhl9KmB-XZyGaQIwxAunAsdBfJ6mI3w/viewform) -->
 
+''Recording of talk on the project''
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rt9xe8bGKDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- Recording tool released! -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/PgQmuIQYoBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
