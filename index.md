@@ -14,7 +14,9 @@ The main aim is to develop open datasets and open source machine learning models
 
 ''Recording of talk on the project''
 
+<div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rt9xe8bGKDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
 <!-- Recording tool released! -->
 
