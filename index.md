@@ -42,3 +42,4 @@ Our server is very free and open, but we aim to follow these two rules at least:
 <img src="img/event4.png" width="300px" style="">
 <img src="img/event5.png" width="300px" style="">
 <img src="img/event_shaders.JPG" width="300px" style="">
+<img src="img/event_shaders2.png" width="300px" style="">
