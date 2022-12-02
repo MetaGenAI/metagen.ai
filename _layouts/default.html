@@ -40,24 +40,23 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <div class="nav">
             <ul>
-              {% if page.page == "home" %}
-              <li class="home"><a class="active" href="/index">Home</a></li>
+              {% if page.page == "community" %}
+              <li class="home"><a class="active" href="/">Community</a></li>
               {% else %}
-              <li class="home"><a href="/">Home</a></li>
+              <li class="home"><a href="/">Community</a></li>
               {% endif %}
               
-              {% if page.page == "tools" %}
-              <li class="tools"><a class="active" href="/tools">Tools</a></li>
+              {% if page.page == "vision" %}
+              <li class="home"><a class="active" href="/vision">Vision</a></li>
               {% else %}
-              <li class="tools"><a href="/tools">Tools</a></li>
+              <li class="home"><a href="/vision">Vision</a></li>
               {% endif %}
 
-              {% if page.page == "research" %}
-              <li class="research"><a class="active" href="/research">Research</a></li>
+              {% if page.page == "labs" %}
+              <li class="research"><a class="active" href="/labs">Labs</a></li>
               {% else %}
-              <li class="research"><a href="/research">Research</a></li>
+              <li class="research"><a href="/labs">Labs</a></li>
               {% endif %}
-              <!-- <li class="about"><a href="#">AI</a></li> -->
             </ul>
           </div>
           <hr>
