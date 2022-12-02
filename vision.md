@@ -22,16 +22,16 @@ These are goals that I hope as many of us can achieve if they so wish x3!
 
 Through science, philosophy, and art, we try to understand the cosmos, and create new things. We organize our explorations in different categories, the main ones being
 
-* Philosophy and rationalism -- the foundations
-* Dance, movement, and robotics -- Movement is fundamental. How do we move, how do things move, how we can make things move?
-* Uwuneering -- the term we use to describe "engineering for empowering people (to pursue happiness)", including morphological freedom and cognitive liberty
-* XR and neurotech -- technology connecting biology and bio-minds to other computing systems
-* Generative AI -- including language models, image and music generation, and many more.
-* Shaders, Artificial life, and procedural generation -- including creative coding stuff, and exploration of the computational universe
-* Bio and nanotech -- How can we understand and control matter from its smallest constituents up
-* Space-time exploration -- Cosmographia, how do we explore the vastness of space and time, and what do we find? Energy, being another fundamental physical quantity is discussed here too.
-* Cognitive science, AI, neuroscience, and psychology -- how do minds work?
-* Social science, economics, ecology, systems science -- the study of complex systems -- large collections of interacting components.
+* **Philosophy and rationalism** -- the foundations
+* **Dance, movement, and robotics** -- Movement is fundamental. How do we move, how do things move, how we can make things move?
+* **Uwuneering** -- the term we use to describe "engineering for empowering people (to pursue happiness)", including morphological freedom and cognitive liberty
+* **XR and neurotech** -- technology connecting biology and bio-minds to other computing systems
+* **Generative AI** -- including language models, image and music generation, and many more.
+* **Shaders, Artificial life, and procedural generation** -- including creative coding stuff, and exploration of the computational universe
+* **Bio and nanotech** -- How can we understand and control matter from its smallest constituents up
+* **Space-time exploration** -- Cosmographia, how do we explore the vastness of space and time, and what do we find? Energy, being another fundamental physical quantity is discussed here too.
+* **Cognitive science, AI, neuroscience, and psychology** -- how do minds work?
+* **Social science, economics, ecology, systems science** -- the study of complex systems -- large collections of interacting components.
 
 ## [MetaGenAI](/ai) <small>-- a vision of the interaction between AI and XR</small>
 
