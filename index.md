@@ -16,7 +16,7 @@ We call the community itself MetaGen+, to represent the idea that we are open to
 
 ## Participate:>
 
-<img src="img/event2.png" width="300px" style="float:right;">
+<img src="img/event2.jpg" width="300px" style="float:right;">
 
 To join, you can join our [discord](/discord), and our events! You can also hang out in 2D:> at [meet.metagen.ai](https://meet.metagen.ai/)
 
