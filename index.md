@@ -20,7 +20,7 @@ We call the community itself MetaGen+, to represent the idea that we are open to
 
 To join, you can join our [discord](/discord), and our events! You can also hang out in 2D:> at [meet.metagen.ai](https://meet.metagen.ai/)
 
-__Stuff we do__
+__Things we do__
 
 1. Discuss, learn, share ideas, about stuff like BCI, VR, AI, transhumanism, furries, science, philosophy, electronics, art 
 2. Hang out
