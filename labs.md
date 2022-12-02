@@ -9,6 +9,8 @@ At MetaGen Labs, we *do stuff*/*work on projects* that aligns with our goals. We
 
 ## [MetaGenAI](/ai)
 
+Bringing AI to the Metaverse, and viceversa
+                                                                                        
 ### [Tools](/tools)
 
 ### [Research](/research)
