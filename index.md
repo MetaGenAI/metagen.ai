@@ -18,7 +18,7 @@ We call the community itself MetaGen+, to represent the idea that we are open to
 
 <img src="img/event2.jpg" width="300px" style="float:right; padding: 15px;">
 
-To join, you can join our [discord](/discord), and our events! You can also hang out in 2D:> at [meet.metagen.ai](https://meet.metagen.ai/)
+To join, you can join our [discord](/discord), [VRChat group](https://vrc.group/MGEN.2812), and our events! You can also hang out in 2D:> at [meet.metagen.ai](https://meet.metagen.ai/)
 
 __Things we do__
 
