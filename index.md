@@ -16,15 +16,15 @@ We call the community itself MetaGen+, to represent the idea that we are open to
 
 ## Participate:>
 
-<img src="img/event2.jpg" width="300px" style="float:right;">
+<img src="img/event2.jpg" width="300px" style="float:right; padding: 15px;">
 
 To join, you can join our [discord](/discord), and our events! You can also hang out in 2D:> at [meet.metagen.ai](https://meet.metagen.ai/)
 
 __Things we do__
 
 1. Discuss, learn, share ideas, about stuff like BCI, VR, AI, transhumanism, furries, science, philosophy, electronics, art 
-2. Hang out
-3. Explore VR
+2. Hang out/socialize
+3. Explore VR and the world
 4. Create and build things together
 5. Have fun, inspire, care for each other
 
