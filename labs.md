@@ -1,5 +1,5 @@
 ---
-page: community
+page: labs
 ---
 
 <img alt=metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:right;">
