@@ -2,7 +2,7 @@
 page: labs
 ---
 
-<img alt=metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:right;"></img>
+<img alt="metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:right;"></img>
 
 At MetaGen Labs, we *do stuff*/*work on projects* that aligns with our goals. We will be updating this page, as we develop more:>
 
