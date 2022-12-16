@@ -4,7 +4,7 @@ page: community
 
 <img alt="logo based on Avali icon by Ryuujin-ZERO, CC-BY" title="logo based on Avali icon by Ryuujin-ZERO, CC-BY" src="logo_feathers.png" width="150px" style="float:right;">
 
-## Welcome to Metaverse Genesis
+## Welcome to Metacosmic Genesis
 
 MetaGen is a community plus an evolving collection of ideas and projects.
 
