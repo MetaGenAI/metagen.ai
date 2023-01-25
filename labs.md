@@ -4,7 +4,7 @@ page: labs
 
 <img alt="metagen labs wonder workers" src="img/wonder_workers.png" width="170px" style="float:right;"/>
 
-MetaGen Labs is where we turn ideas into reality. Our mission is to use our collective knowledge and skills to explore, experiment, and develop new ideas that align with our values of curiosity, freedom, inclusivity, playfulness and health. We are particularly interested in technologies that extend what's possible, such as AI, XR, and BCI, as they may unlock futures that are more awesome than we can currently imagine.
+MetaGen Labs is where we turn ideas into reality. Our mission is to use our collective knowledge and skills to explore, experiment, and develop new ideas that align with our values of curiosity, freedom, inclusivity, playfulness and health. We are particularly interested in technologies that extend what's possible, such as AI, XR, and BCI, as we expect them to unlock futures that are more awesome than we can currently imagine.
 
 Our projects will be time-bounded and intended to make us learn, so we call them explorations. Every quarter we gather a crew to embark on a new adventure or adventures, while keeping close ties with the rest of our MetaGen+ community, and our place in the world at large.
 
@@ -13,7 +13,7 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:background: rgba(0,0,0,0); clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	#mc_embed_signup{background:background: rgba(0,0,0,0); clear:left; font:14px Helvetica,Arial,sans-serif;  width:100%;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
