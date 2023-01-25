@@ -2,6 +2,14 @@
 page: labs
 ---
 
+<style>
+	
+	#mc_embed_signup {
+	  background: rgba(0,0,0,0)
+	}
+	
+</style>
+
 <img alt="metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:right;"/>
 
 MetaGen Labs is where we turn ideas into reality. Our mission is to use our collective knowledge and skills to explore, experiment, and develop new ideas that align with our values of curiosity, freedom, inclusivity, playfulness and health. We are particularly interested in technologies that extend what's possible, such as AI, XR, and BCI, as they may unlock futures that are more awesome than we can currently imagine.
