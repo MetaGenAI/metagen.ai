@@ -45,6 +45,16 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+# Explorations
+
+## Longevity World
+
+This quarter we are aiming to build the most inspirational educational experience about longevity technologies, as a world in VRChat.
+
+Check our [Notion page](https://thunder-zinc-cf1.notion.site/Longevity-Edu-inspirational-VRChat-world-238632ca7ffd4903bd398a6ab32687d9) and the longevity-world channel on our discord to see progress
+
+# Further explorations
+
 ## [MetaGenAI](/ai)
 
 Bringing AI to the Metaverse, and viceversa
@@ -55,4 +65,4 @@ Bringing AI to the Metaverse, and viceversa
 
 ## Community projects
 
-On tops of the Labs and other longer term MetaGen projects, we have a channel on [our discord](/discord) where anyone can share or collaborate on projects! Go check them out
+On tops of the Labs and other longer term MetaGen projects, we have a channel on [our discord](/discord) where anyone can share or collaborate on projects big or small! Go check them out
