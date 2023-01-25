@@ -14,7 +14,7 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:background: rgba(0,0,0,0); clear:left; font:14px Helvetica,Arial,sans-serif;  width:100%;}
+	#mc_embed_signup{background: rgba(0,0,0,0); clear:left; font:14px Helvetica,Arial,sans-serif;  width:100%;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -24,8 +24,8 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
         
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<!--<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>-->
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+	<input style="background: #3E3E3D;" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<!--<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>-->
 </div>
 	<div id="mce-responses" class="clear foot">
