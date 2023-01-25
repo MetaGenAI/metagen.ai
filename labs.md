@@ -47,7 +47,11 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 
 # Explorations
 
+We have kicked off MetaGen Labs at the beginning of 2023 with Longevity World!
+
 ## Longevity World
+
+<img alt="metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:left;"/>
 
 This quarter we are aiming to build the most inspirational educational experience about longevity technologies, as a world in VRChat.
 
