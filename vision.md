@@ -2,23 +2,28 @@
 page: vision
 ---
 
-At MetaGen we are a vision of a [positive future](https://www.existentialhope.com/) based on critical understanding of the cosmos. This is a WIP
+At MetaGen we are a vision of a [positive future](https://www.existentialhope.com/) based on critical understanding of the cosmos.
 
-### What we want the future to be
+### Aspiration
 
-These are goals that I hope as many of us can achieve if they so wish x3!
+<img alt="metagen labs wonder workers" src="img/wonder_workers.png" width="170px" style="float:right;"/>
+
+We aspire for a future full of love and wonder for every being. We also think that we don't really even have the concepts to describe what the future holds, so we approach it with curiosity and wonder. We are bullish on technologies that help us explore what's possible. Remember: beyond the ordinary, lies the extraordinary. Ultimately, we believe in a future with quasi-infinite potential; that no matter how far we go, there's always more to discover and create; That problems are unavoidable, but problems are solvable; that the Cosmos is full beyond measure of elegant Truths and potential for Beauty Unimaginable. That we are always children playing at the shores of the cosmic ocean -- at the beginning of infinity.
+
+Our values we strive for can't be neatly summarized in words of course, but here's our best attempt:
 
 1. Make the world awesome
-2. Live in a VR/XR/augmented magical world
-3. Make life be and feel fun, playful, full of wonder and love
-4. Develop good mental health and support each other
-5. Make healthy and menaningful relationships and friendships
-6. Make furries (morphological freedom) real
-7. Cognitive Liberty!
-8. Exploring, and learning about the Cosmos / getting closer to truths:>
-9. Cosmic Harmony
+2. Explore with wonder and curiosity
+3. Live in a VR/XR/augmented magical world
+4. Make life be and feel fun, playful, full of wonder and love
+5. Develop good mental health and support each other
+6. Make healthy and menaningful relationships and friendships
+7. Make furries (morphological freedom) real
+8. Cognitive Liberty!
+9. Learning about the Cosmos / getting closer to Truths
+10. Cosmic Harmony
 
-### How we understand the cosmos
+### Understanding
 
 Through science, philosophy, and art, we try to understand the cosmos, and create new things. We organize our explorations in different categories, the main ones being
 
