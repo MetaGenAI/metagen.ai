@@ -2,14 +2,6 @@
 page: labs
 ---
 
-<style>
-	
-	#mc_embed_signup {
-	  background: rgba(0,0,0,0)
-	}
-	
-</style>
-
 <img alt="metagen labs logo" src="img/beaker_logo.png" width="170px" style="float:right;"/>
 
 MetaGen Labs is where we turn ideas into reality. Our mission is to use our collective knowledge and skills to explore, experiment, and develop new ideas that align with our values of curiosity, freedom, inclusivity, playfulness and health. We are particularly interested in technologies that extend what's possible, such as AI, XR, and BCI, as they may unlock futures that are more awesome than we can currently imagine.
@@ -21,7 +13,7 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	#mc_embed_signup{background:background: rgba(0,0,0,0); clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -44,7 +36,7 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/ijbwjf" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                <!--<p class="brandingLogo"><a href="http://eepurl.com/ijbwjf" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>-->
             </div>
         </div>
     </div>
