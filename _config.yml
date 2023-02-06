@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 title: MetaGen
-description: A VR/XR community for friendly ambitious minds (humans+AI)
+description: A VR+XR community for friendly ambitious minds (humans+AI)
 github_url: https://github.com/MetaGenAI/
 exclude: ['node_modules']
 gems:
