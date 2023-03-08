@@ -49,7 +49,7 @@ Last weekend I was at the Sunday service event in VRChat. This is a little churc
 
 ![image](https://user-images.githubusercontent.com/7515537/223571966-61967990-c47f-415f-be22-e74d93fc6a4f.png) Whsprs performing at Sunday Service
 
-And this is just a tinty glimpse of it -- the amount of real human stories taking place in platforms like VRChat, NeosVR, and other platforms could fill many movies (there was in fact a recent movie that I think is a great example - I watched [We Met in Virtual Reality](https://www.imdb.com/title/tt16378482/) and it made me cry at several times~).
+And this is just a tiny glimpse of it -- the amount of real human stories taking place in platforms like VRChat, NeosVR, and other platforms could fill many movies (there was in fact a recent movie that I think is a great example - I watched [We Met in Virtual Reality](https://www.imdb.com/title/tt16378482/) and it made me cry at several times~).
 
 However, there's another trend that I can't help but notice going on. People made fun of the corporation in Ready Player One for wanting to fill the screenspace with ads. Well guess what's the first thing you see, pretty much covering your field of view, the first time you enter some of the most popular VRChat worlds (like the Pug, or Midnight rooftop): tons of ads, stuck to the walls. These are offered at a price by the world creators to support themselves obviously. Some world creators also make some parts of their worlds VIP only (e.g. in Spirits of the Sea or Dreamwaves), so that you can only access them if you pay.
 
