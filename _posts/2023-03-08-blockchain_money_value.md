@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 'Blockchain, money, and value'
-author: Guillermo Valle
+author: GuilleFix (Guillermo Valle)
 email: guillefix@gmail.com
 ---
 
@@ -81,7 +81,7 @@ In the last few years, people in web3 (the newer rebranding of blockchain to foc
 
 The purpose of this post was to explain two very different perspectives around a set of recent developments on monetary and collaborative technology -- namely blockchain and more recently other technologies in the web3 sphere (e.g. federated networks, zero-knowledge, quadratic voting, network states, metaverses, etc). I think these technologies are at the intersection of human values and large-scale coordination, and both of these are very complex topics, so it's not surprising creating a common narrative is surprisingly hard. I hope this post has helped illustrate what I think are the two main clusters of opinions a bit. I also think, that while a lot is written on how technologies can help large-scale coordination (most of web3 literature for example), not enough thought is put on how technology can help bring forth human values -- even though it certainly can, as I hope some of the stories above atest. I want to cite one of my favourite videos by the very thoughtful game designer Jonnathan blow which is one of the best discussions I've seen on this topic
 
-<iframe width="100%" height="70%" src="https://www.youtube.com/embed/SqFu5O-oPmU" title="Jonathan Blow: Video Games and the Human Condition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="200%" src="https://www.youtube.com/embed/SqFu5O-oPmU" title="Jonathan Blow: Video Games and the Human Condition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 An even bigger hope with this post is that a mutual understanding can help bring people closer together. I think the above stories show that there's valuable and useful stuff to learn from all communities currently developing in the metaverse, and I think working together we have better chances to make awesome things happen. I want crypto-skeptics to take a look at some of the valuable stuff the web3 community is making (e.g. reading on network states, DeSci, fediverse, and checking out the writings of Vitalik, [Allison Duettman](https://foresightinstitute.substack.com/p/coming-soon) and others), and I want crypto-enthusiasts to focus on the most valuable stuff and no actually making the world better for people, and to spend enough time thinking and pragmatically experimenting what that means. Ultimately, I want to help everyone learn more about different perspectives, so that we take wiser steps towards a beter world:>
 
