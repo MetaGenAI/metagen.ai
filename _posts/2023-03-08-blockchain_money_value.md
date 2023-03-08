@@ -24,13 +24,13 @@ What is going on really? I think that most of the arguments are just rationaliza
 
 Let's explore these two profiles, in a classical thesis-antithesis-synthesis framework.
 
-**Thesis: I find money and monetization attractive**
+### **Thesis: I find money and monetization attractive**
 
 I think this stems from a believe that money and monetization are *deeply fundamental* to a functioning and flourishing society. Money and monetization are tied with contepts of ownership and personal liberty, which are corner stones of a good and advancing society.
 
 People feel like they are being abused if they don't have control over their property, if they can't receive *fair compensation* for their work, etc. So money and monetization feels like a thing we must have, as important as freedom and personal dignity.
 
-## **Antithesis: I find money and monetization suspicious/unattractive**
+### **Antithesis: I find money and monetization suspicious/unattractive**
 
 I think this stems from the believe that money and monetization are just tools to refer to *real valuable stuff* and on themselves are worthless. This belief is combined with the belief that people who are "obsessed" with money have probably lost sight of the true value of things -- they have confused the symbol with the referent. When you spend more time thinking about the proxy of value, you are automatically spending less time thinking about the valuable thing itself, thus money-obssesed people lose track of what's valuable and may thus engage in behavior that is not that well algined with our "real values", e.g. speculation, or even scamming and corruption.
 
