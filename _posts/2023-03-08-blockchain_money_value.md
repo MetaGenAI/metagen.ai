@@ -3,6 +3,7 @@ layout: post
 title: 'Blockchain, money, and value'
 author: GuilleFix (Guillermo Valle)
 email: guillefix@gmail.com
+excerpt: Thoughts from a denizen of the metaverse
 ---
 
 Hawoo everyone!
