@@ -27,7 +27,7 @@ Let's explore these two profiles, in a classical thesis-antithesis-synthesis fra
 
 ### **Thesis: I find money and monetization attractive**
 
-I think this stems from a believe that money and monetization are *deeply fundamental* to a functioning and flourishing society. Money and monetization are tied with contepts of ownership and personal liberty, which are corner stones of a good and advancing society.
+I think this stems from a belief that money and monetization are *deeply fundamental* to a functioning and flourishing society. Money and monetization are tied with contepts of ownership and personal liberty, which are corner stones of a good and advancing society.
 
 People feel like they are being abused if they don't have control over their property, if they can't receive *fair compensation* for their work, etc. So money and monetization feels like a thing we must have, as important as freedom and personal dignity.
 
