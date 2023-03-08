@@ -52,6 +52,11 @@ And this is just a tinty glimpse of it -- the amount of real human stories takin
 
 However, there's another trend that I can't help but notice going on. People made fun of the corporation in Ready Player One for wanting to fill the screenspace with ads. Well guess what's the first thing you see, pretty much covering your field of view, the first time you enter some of the most popular VRChat worlds (like the Pug, or Midnight rooftop): tons of ads, stuck to the walls. These are offered at a price by the world creators to support themselves obviously. Some world creators also make some parts of their worlds VIP only (e.g. in Spirits of the Sea or Dreamwaves), so that you can only access them if you pay.
 
+![image](https://user-images.githubusercontent.com/7515537/223584981-2c46fbd2-c905-4a4e-98e5-0a488d405441.png)The Great Pug
+
+![image](https://user-images.githubusercontent.com/7515537/223585524-50ab3d3a-b186-4e7a-ac74-4e9fff9e2334.png)Midnight rooftop
+
+
 Somehow, the fact that this has emerged organically makes people less bothered than if this had been the norm since the beginning. If VRChat had offered ad spaces or "VIP worlds" you need to pay for, these would have been labelled as "invasive" and as "artificial scarcity", I think. I think this isn't totally unreasonable though. People only begin trusting the more abstract foundations of society, such as money, once the foundational valuable stuff has been stablished. Otherwise, once feels at risk of it being a scam or a speculative bubble.
 
 This doesn't change the fact that, eventually, as a platform and community grows, money and monetization are found increasingly useful. Turns out that money is a very useful tool to coordinate among very large numbers of people. Furthermore, the tools to make money work are very non-trivial. As a community grows, these challenges become more and more apparent, and it's in fact the foundation of a lot of work by a lot of smart and some well-intentioned people. One person which I think is pushing the frontiers of this knowledge (how to coordinate the largest numbers of people and make societies work) is Vitalik Buterin, the funder of Ethereum. And thus we arrive at the synthesis: money is useful, but needs to be based on real values.
