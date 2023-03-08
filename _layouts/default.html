@@ -51,6 +51,12 @@
               {% else %}
               <li class="home"><a href="/vision">Vision</a></li>
               {% endif %}
+              
+              {% if page.page == "blog" %}
+              <li class="home"><a class="active" href="/blog">Blog</a></li>
+              {% else %}
+              <li class="home"><a href="/blog">Blog</a></li>
+              {% endif %}
 
               {% if page.page == "labs" %}
               <li class="research"><a class="active" href="/labs">Labs</a></li>
