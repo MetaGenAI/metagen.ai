@@ -6,10 +6,10 @@ page: blog
 
 
 <div class="row">
-  <div class="col-lg-10 col-lg-offset-1">
+  <div class="col-lg-12 col-lg-offset-1">
         {% for instance in site.data.events %}
             <div class="row">
-                <div class="col-lg-9 col-lg-offset-0">
+                <div class="col-lg-7 col-lg-offset-0">
                   <div class="d-flex w-100 justify-content-between">
                       <h3 class="mb-1 post-title">{{ instance.name }}</h3>
                   </div>
@@ -20,7 +20,7 @@ page: blog
                     <p class="mb-1"><b>Instance URL</b>: <a href="{{instance.url}}" target="_blank">{{instance.url}}</a></p>
                   {% endif %}
                 </div>
-                <img class="rounded float-right" width="30%" height="100%" src="{{instance.img}}"></img>
+                <img class="rounded float-right" width="40%" height="100%" src="{{instance.img}}"></img>
             </div>
         {% endfor %}
   </div>
