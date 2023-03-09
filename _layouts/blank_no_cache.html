@@ -8,12 +8,11 @@
 <meta http-equiv="Expires" content="0">
 
 {% seo %}
-    <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-    <!-- <link rel="stylesheet" href="{{ '/assets/css/project-style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-    <!-- <script src="" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
-    <!-- <script src="{{ '/assets/js/respond.js' | relative_url }}"></script> -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
-    <!-- <script src="" crossorigin="anonymous"></script> -->
+    <script src="https://kit.fontawesome.com/f443ffb9df.js" crossorigin="anonymous"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -24,9 +23,72 @@
 
   </head>
   <body>
-        <div class="wrapper">
+<!--       <div id="header">
+        <nav>
+          <li class="fork"><a href="{{ site.github_url|site.github.repository_url }}">View On GitHub</a></li>
+          {% if site.show_downloads %}
+            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+            <li class="title">DOWNLOADS</li>
+          {% endif %}
+        </nav>
+      </div> -->
+    <!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+<!--           <div class="nav">
+            <ul>
+              {% if page.page == "community" %}
+              <li class="home"><a class="active" href="/">Community</a></li>
+              {% else %}
+              <li class="home"><a href="/">Community</a></li>
+              {% endif %}
+              
+              {% if page.page == "vision" %}
+              <li class="home"><a class="active" href="/vision">Vision</a></li>
+              {% else %}
+              <li class="home"><a href="/vision">Vision</a></li>
+              {% endif %}
+              
+              {% if page.page == "blog" %}
+              <li class="home"><a class="active" href="/blog">Blog</a></li>
+              {% else %}
+              <li class="home"><a href="/blog">Blog</a></li>
+              {% endif %}
+
+              {% if page.page == "labs" %}
+              <li class="research"><a class="active" href="/labs">Labs</a></li>
+              {% else %}
+              <li class="research"><a href="/labs">Labs</a></li>
+              {% endif %}
+            </ul>
+          </div> -->
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
         {{ content }}
+
+      </section>
+
     </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
   </body>
   <footer>
     <script type="text/javascript" src="/assets/js/bundle.js" charset="utf-8"></script>
