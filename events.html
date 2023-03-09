@@ -14,7 +14,11 @@ page: blog
                       <h3 class="mb-1 post-title">{{ instance.name }}</h3>
                   </div>
                   <p class="mb-1">{{ instance.description }}</p>
+                  {% if instance.url == 'TBA' %}
+                                      <p class="mb-1"><b>Instance URL</b>: TBA</p>
+                  {% else %}
                     <p class="mb-1"><b>Instance URL</b>: <a href="{{instance.url}}" target="_blank">{{instance.url}}</a></p>
+                  {% endif %}
                 </div>
                 <img class="rounded float-right" width="30%" height="100%" src="{{instance.img}}"></img>
             </div>
