@@ -1,3 +1,4 @@
-- name: Test1
+- name: Learn To Make Your Own Chip
   url: https://vrchat.com/home/group/grp_28cc8c70-4f6d-4646-afc6-56149e2571b2
-  description: Test desc
+  description: The second of an exciting two-part presentation by Tholin! The second part will cover a technical explanation of how semiconductors work, and how to easily design your own chip using the SkyWater 130nm PDK and OpenLane, with the possibility of submitting to efabless for fabrication.
+  img: https://user-images.githubusercontent.com/7515537/224062022-6b77e273-c9be-4984-8966-fd66bbabba77.png
