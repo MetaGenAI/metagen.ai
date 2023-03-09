@@ -9,7 +9,7 @@ page: blog
   <div class="col-lg-10 col-lg-offset-1">
     <ul class="list-group list-group-flush posts-list">
         {% for instance in site.data.events %}
-            <a href="{{ instance.url }}">
+            <a href="{{ instance.url }}" target="_blank">
             <!-- <li class="list-group-item" style="background-color:black;"> -->
                 <!-- <a href="{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start active"> -->
                 <div class="post list-group-item list-group-item-action flex-column align-items-start active">
@@ -17,6 +17,8 @@ page: blog
                     <h3 class="mb-1 post-title">{{ instance.name }}</h3>
                 </div>
                 <p class="mb-1">{{ instance.description }}</p>
+                  <p class="mb-1"><b>Instance URL</b>: <a href="{{instance.url}}">{{instance.url}}</a></p>
+                <img width="30%" height="100%" style="float:right;" src="{{instance.img}}"></img>
                 </div>
             <!-- </li> -->
             </a>
