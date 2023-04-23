@@ -12,16 +12,18 @@ We aspire for a future full of love and wonder for every being. We also think th
 
 Our values we strive for can't be neatly summarized in words of course, but here's our best attempt:
 
-1. Make the world awesome
-2. Explore with wonder and curiosity
-3. Live in a VR/XR/augmented magical world
-4. Make life be and feel fun, playful, full of wonder and love
-5. Develop good mental health and support each other
-6. Make healthy and menaningful relationships and friendships
-7. Make furries (morphological freedom) real
-8. Cognitive Liberty!
-9. Learning about the Cosmos / getting closer to Truths
-10. Cosmic Harmony
+**Metacosmic principles and ideas** (always WIP):
+
+1. Everything can always improve (Growth mindset a la Enlightment). This is expressed neatly in The Beginning of Infinity: problems are unavoidable; problems are soluble
+2. A good heuristic towards improvement is making the world/universe more awesome.
+3. We: explore with wonder and curiosity,
+4. Wanna make life be and feel more fun, playful, full of wonder and love
+5. Wanna improve health physical and mental, and support each other
+6. Believe in a community based on healthy and menaningful relationships and friendships
+7. Believe in freedom, specially over your own form/self. This includes morphological freedom (making furries real!) and cognitive liberty!
+9. We believe that Truth and Knowledge are useful but also a worthy goal in their own right. Learning, discovering, and science are goals on themselves, but also tools to improve all other goals!
+10. We are ambitious. We like to pursue our goals even if they are large or unbounded. Some of us aim towards the Beginning of Infinity of ever growing knowledge and reach in the Cosmos, which even Francis Bacon already put into words: "the end [...] is the knowledge of causes and secret motions of things, and the enlargment of the bounds of human empire to the effecting of all things possible".
+11. Cosmic Harmony ~ Beauty ~ Truth
 
 ### Understanding
 
