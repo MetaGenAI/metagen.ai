@@ -6,11 +6,9 @@ page: community
 
 ## Welcome to Metacosmic Genesis
 
-MetaGen is a community plus an evolving collection of ideas and projects.
+We are a community of friendly ambitious minds. We welcome humans, post-humans, AIs, etc that want to aim for constant improvement and a better future. Among us you'll find [transhumanists](https://en.wikipedia.org/wiki/Transhumanism), furries, researchers, entrepeneurs, [effective accelerationists](https://effectiveaccelerationism.substack.com/p/repost-notes-on-eacc-principles-and) (e/accs), [effective altruists](https://www.effectivealtruism.org/) (EAs), (post/meta-)rationalists, engineers, musicians, XR junkies, bio-hackers who somehow vibe together, and aim for for rational collective liberty and cosmic wonder:3
 
 We are always evolving, but united by ideas such as curiosity to learn and explore, desire to create and improve, freedom, and a passion for futuristic tech like AI, XR, and BCIs:>
-
-We don't abide by any labels, but among us you'll find VR nerds, scientists, entrepeneurs, [transhumanists](https://en.wikipedia.org/wiki/Transhumanism), [effective altruists](https://www.effectivealtruism.org/) (EAs), [effective accelerationists](https://effectiveaccelerationism.substack.com/p/repost-notes-on-eacc-principles-and) (e/accs), biocosmists, (post/meta-)rationalists, hackers, makers, developers, furries, artists, etc. which somehow vibe together and want to explore and create a more awesome world:3
 
 We call the community itself MetaGen+, to represent the idea that we are open to people that we may not be expecting (hence the '+'). We want to be an inclusive, open, and respectful community!
 
