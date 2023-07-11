@@ -47,7 +47,7 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 
 # Explorations
 
-We have kicked off MetaGen Labs at the beginning of 2023 with Longevity World!
+<!--We have kicked off MetaGen Labs at the beginning of 2023 with Longevity World!-->
 
 <!--
 ## Longevity World
@@ -71,3 +71,8 @@ Bringing AI to the Metaverse, and viceversa
 ## Community projects
 
 On tops of the Labs and other longer term MetaGen projects, we have a channel on [our discord](/discord) where anyone can share or collaborate on projects big or small! Go check them out
+
+- Tholin is working on open source silicon
+- BubbleBones is working on open source XR runtimes
+- hollowaya is working on XR avatars
+- and more:>
