@@ -49,11 +49,14 @@ Interested in joining our journey? We'd love to hear from you! Join our discord 
 
 We have kicked off MetaGen Labs at the beginning of 2023 with Longevity World!
 
+<!--
 ## Longevity World
 
 This quarter we are aiming to build the most inspirational educational experience about longevity technologies, as a world in VRChat.
 
 Check our [Notion page](https://thunder-zinc-cf1.notion.site/Longevity-Edu-inspirational-VRChat-world-238632ca7ffd4903bd398a6ab32687d9) and the longevity-world channel on our discord to see progress
+
+-->
 
 # Further explorations
 
