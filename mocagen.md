@@ -12,6 +12,10 @@ page: mocagen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dahwnujrd2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+New diffusion model for gestures (WIP):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpyAwC1bQtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </br>
 
 ## Robotics
