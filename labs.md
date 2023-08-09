@@ -58,8 +58,6 @@ Check our [Notion page](https://thunder-zinc-cf1.notion.site/Longevity-Edu-inspi
 
 -->
 
-# Further explorations
-
 ## [MetaGenAI](/ai)
 
 Bringing AI to the Metaverse, and viceversa
