@@ -6,9 +6,11 @@ page: ai
 
 ## MetaGenAI
 
-MetaGenAI is a project to explore and develop the intersection between AI and VR/AR. 
+MetaGenAI is a project to explore and develop the intersection between AI and XR (VR/AR).
 
-The main aim is to develop open datasets and open source machine learning models, and related tools, that build on the rich multimodal data that VR and 3D technologies offer. The current project is to develop generative models of motion (conditioned on other modalities), and trained from VR data. However, the vision, explained below, is much larger. Ultimately, we want to understand intelligence and keep exploring what lies beyond:)
+The main aim is to develop datasets and machine learning models, and related tools, that build on the rich multimodal data that VR and 3D technologies offer. The current project is to develop generative models of motion (conditioned on other modalities), and trained from VR data. However, the vision, explained below, is much larger. Ultimately, we want to understand intelligence and keep exploring what lies beyond:)
+
+See [here](/mocagen) for some demo videos of the model we [published at SIGGRAPH](https://metagen.ai/transflower) applied to different tasks.
 
 <!-- [Short poll to gauge interest in participating in VR studies](https://docs.google.com/forms/d/e/1FAIpQLSfRyX7R4qXIbF6BtlOYhl9KmB-XZyGaQIwxAunAsdBfJ6mI3w/viewform) -->
 
